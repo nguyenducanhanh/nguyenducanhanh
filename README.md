@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Nguyễn Đức Anh
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Software Technology
-- 📫 Contact me : Gmail:nguyenducanh260402@gmail.com
--     https://nguyenducanhanh.github.io/myself/
+
